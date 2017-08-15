@@ -89,7 +89,7 @@ honey_ip =
 # input: Number
 # required: YES
 # default: 22
-honey_port = 
+honey_port = 22
 
 #-----------------------#
 #   HONEYPOT SCRIPT     #
